@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.3\lib\idea_rt.jar=58730:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\jacob\Documents\KTH\Algorithms and Data structures\lab4\out\production\lab4;C:\Users\jacob\Documents\KTH\Algorithms and Data structures\lab4\lib\stdlib.jar" task1.InputGraph
+The value of MS is 3
+There is a path to node 12
+The dfs path to node 12 is
+0 4 26 44 29 43 42 36 34 35 19 14 13 15 11 10 12 
+BFS verified
+The bfs path to 12 is:
+254 0 4 7 8 12 
+First number is total weight of path
+
+Process finished with exit code 0

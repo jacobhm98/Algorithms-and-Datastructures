@@ -1,0 +1,3 @@
+C:/Users/jacob/Documents/KTH/Algorithms and Data structures/lab1task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jacob/Documents/KTH/Algorithms and Data structures/lab1task1/cmake-build-debug/CMakeFiles/lab1task1.dir
+C:/Users/jacob/Documents/KTH/Algorithms and Data structures/lab1task1/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.3\lib\idea_rt.jar=58742:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\jacob\Documents\KTH\Algorithms and Data structures\lab4\out\production\lab4;C:\Users\jacob\Documents\KTH\Algorithms and Data structures\lab4\lib\stdlib.jar" task2_3.TopologicalSort
+Topological Sort of given Graph is: 
+9 10 11 12 8 7 6 4 3 1 0 2 5 
+
+Process finished with exit code 0
